@@ -63,7 +63,7 @@ class Result {
     if(!b.isEmpty()){
         System.out.println("Not true");
     }
-    if(isBalancedd){
+    if(isBalancedd()){
         System.out.println("True");
       }
     else{
