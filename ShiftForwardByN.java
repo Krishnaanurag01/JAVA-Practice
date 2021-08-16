@@ -3,7 +3,7 @@
 public class ShiftForwardByN {
     
     public static void main(String[] args) {
-        swapForward("hey there ");
+        swapForward("hez there");
     }
     
     public static void swapForward(String  s) {
